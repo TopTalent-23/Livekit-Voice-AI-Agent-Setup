@@ -120,7 +120,3 @@ https://github.com/livekit/agents/tree/main/examples/voice-pipeline-agent/llamai
 https://www.datavise.ai/blog/usage-of-realtime-openai-api-with-twillio-and-livekit
 https://gist.github.com/ShayneP/51eabe243f9e7126929ea7e9db1dc683
 
-# Author
-
-[Discord](https://discord.gg/TawJX4ue)
-[Email](mailto:worker.opentext@gmail.com)
